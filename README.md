@@ -9,4 +9,12 @@
   -Add copy to clipboard button
   
   -Implement click-on tag
+
+  -Store data in a Database(MongoDB)
+
+  -Add authentication with a Google account
+
+  
+  
+
   
